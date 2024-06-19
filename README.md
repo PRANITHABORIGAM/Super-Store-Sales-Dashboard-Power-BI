@@ -5,11 +5,11 @@ To contribute to the success of a business by utilizing data analysis techniques
 Introduction:
 
 Office Essentials Plus is an Indian retail store providing office, personal, and furniture needs—all delivered to your doorstep.
+
 Business Problem:
-
 The retail store lacks an efficient data analytics strategy to harness its diverse data sources for generating actionable insights.
-Goal:
 
+Goal:
 The retail store doesn't have a good plan for using its data to make smart decisions. They need to figure out how to organize their sales, customer, and market info to make better choices and improve their business.
 Stakeholder: Marketing and Business Teams
 
