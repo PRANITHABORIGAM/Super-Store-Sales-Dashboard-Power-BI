@@ -20,25 +20,32 @@ Stakeholder: Marketing and Business Teams
 4. Actionable Insights and Recommendations: End goals is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency and customer satisfaction.
 
 **Tools/Skills Used:**
-'''DAX
-Power Query
-ETL
-Measures
-Custom Visuals
-Slicers
-Data Modeling
-Data Transformation
-Data Cleaning
-Power BI Desktop
-Conditional Formatting
-Dashboard'''
+-DAX
+-Power Query
+-ETL
+-Measures
+-Custom Visuals
+-Slicers
+-Data Modeling
+-Data Transformation
+-Data Cleaning
+-Power BI Desktop
+-Conditional Formatting
+-Dashboard
 
 **Insights:**
-'''1.The retail store generated approximately $2 million in sales, processing about 22,000 orders, and yielded a profit of $175,000.
+1.The retail store generated approximately $2 million in sales, processing about 22,000 orders, and yielded a profit of $175,000.
+
 2.In 2020, peak sales reached approximately 165K, while profits approached 8K.
+
 3.It takes approximately 4 average days to deliver the products.
+
 4.For the first 15 days of January 2021, the sales amount is forecasted to reach 9470, with the lowest projected value being 1156.
+
 5.The Standard Class delivery mode generated the highest amount of sales at $0.33 million.
+
 6.The Office Supplies Category achieved sales of 0.64 million, followed by technology products at 0.47 million.
+
 7.To the Year-over-Year (YoY) trend, sales and profit gradually grow each month, peaking in December.
-8.For Year-over-Year (YoY) analysis, it is observed that sales dip in October in both years, while profit peaks'''
+
+8.For Year-over-Year (YoY) analysis, it is observed that sales dip in October in both years, while profit peaks
