@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard-Power-BI
+# Retail Sales and Forecasting Analysis Dashboard-Power-BI
 Objective:
 To contribute to the success of a business by utilizing data analysis techniques,specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
@@ -34,7 +34,6 @@ Conditional Formatting
 Dashboard
 
 Insights:
-
 The retail store generated approximately $2 million in sales, processing about 22,000 orders, and yielded a profit of $175,000.
 In 2020, peak sales reached approximately 165K, while profits approached 8K.
 It takes approximately 4 average days to deliver the products.
